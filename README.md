@@ -19,7 +19,7 @@
                       ⢀⡼⠋                                                                          
                     ⢀⠔⠁                                                                            
                                                                                                    
-                  "AmangLy, i just follow quickstart and actually it's working"
+                  "I just follow quickstart and actually it's working"
 
 A simple real-time chat application built with SpacetimeDB, featuring a React frontend and Rust backend. This project follows the official quickstart and I just learn something new and 15x faster than postgres :D
 - Frontend: https://spacetimedb.com/docs/sdks/typescript/quickstart 
